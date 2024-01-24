@@ -1,0 +1,3 @@
+https://learnwebcode.github.io/practice-requests/images/cat-1.jpg
+https://learnwebcode.github.io/practice-requests/images/dog-1.jpg
+https://learnwebcode.github.io/practice-requests/images/cat-2.jpg
